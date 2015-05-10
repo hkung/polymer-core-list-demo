@@ -1,0 +1,13 @@
+{
+  "name": "polymer-core-list-demo",
+  "version": "0.1.0",
+  "dependencies": {
+    "core-elements": "Polymer/core-elements#^0.5.1",
+    "paper-elements": "Polymer/paper-elements#^0.5.1",
+    "polymer": "Polymer/polymer#^0.5.4"
+  },
+  "devDependencies": {},
+  "resolutions": {
+    "webcomponentsjs": "0.6.1"
+  }
+}

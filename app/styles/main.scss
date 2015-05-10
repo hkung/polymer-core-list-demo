@@ -1,0 +1,45 @@
+body {
+  background: #fafafa;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #333;
+}
+
+.hero-unit {
+  margin: 0px auto 0px auto;
+  width: 100%;
+  font-size: 18px;
+  font-weight: 200;
+  line-height: 30px;
+  padding: 5px 20px;
+
+  h1 {
+    font-size: 60px;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+}
+
+core-toolbar {
+  color: #FAFAFA;
+  background-color: #4F7EA6;
+}
+
+core-list {
+  .row {
+    height: 180px;
+    padding: 10px;
+  }
+
+  .avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 5%;
+    margin-right: 16px;
+    background-color: #4F7EA6;
+  }
+}
+
+.tall {
+  font-size: 30px;
+  padding: 60px;
+}
