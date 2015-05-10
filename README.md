@@ -7,4 +7,5 @@ Web app demo of Polymer core-list and core-ajax elements
 
 ##Data Source
 Reddit Front Page hot posts: http://api.reddit.com/hot?limit=100
+
 Warning: Discretion advised for Reddit content
